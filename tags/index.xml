@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on backshots.photo</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on backshots.photo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 06 May 2024 13:56:53 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Film</title>
+      <link>http://localhost:1313/tags/film/</link>
+      <pubDate>Mon, 06 May 2024 13:56:53 +0100</pubDate>
+      <guid>http://localhost:1313/tags/film/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Harman</title>
+      <link>http://localhost:1313/tags/harman/</link>
+      <pubDate>Mon, 06 May 2024 13:56:53 +0100</pubDate>
+      <guid>http://localhost:1313/tags/harman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phoenix</title>
+      <link>http://localhost:1313/tags/phoenix/</link>
+      <pubDate>Mon, 06 May 2024 13:56:53 +0100</pubDate>
+      <guid>http://localhost:1313/tags/phoenix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rangefinder</title>
+      <link>http://localhost:1313/tags/rangefinder/</link>
+      <pubDate>Mon, 06 May 2024 13:56:53 +0100</pubDate>
+      <guid>http://localhost:1313/tags/rangefinder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snappysnaps</title>
+      <link>http://localhost:1313/tags/snappysnaps/</link>
+      <pubDate>Mon, 06 May 2024 13:56:53 +0100</pubDate>
+      <guid>http://localhost:1313/tags/snappysnaps/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
