@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/film/</loc>
+    <loc>https://backshots.photo/film/</loc>
     <lastmod>2024-05-06T13:56:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://backshots.photo/</loc>
     <lastmod>2024-05-06T13:56:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/film/</loc>
+    <loc>https://backshots.photo/tags/film/</loc>
     <lastmod>2024-05-06T13:56:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/harman/</loc>
+    <loc>https://backshots.photo/tags/harman/</loc>
     <lastmod>2024-05-06T13:56:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/film/petri-phoenix/</loc>
+    <loc>https://backshots.photo/film/petri-phoenix/</loc>
     <lastmod>2024-05-06T13:56:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/phoenix/</loc>
+    <loc>https://backshots.photo/tags/phoenix/</loc>
     <lastmod>2024-05-06T13:56:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rangefinder/</loc>
+    <loc>https://backshots.photo/tags/rangefinder/</loc>
     <lastmod>2024-05-06T13:56:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/snappysnaps/</loc>
+    <loc>https://backshots.photo/tags/snappysnaps/</loc>
     <lastmod>2024-05-06T13:56:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://backshots.photo/tags/</loc>
     <lastmod>2024-05-06T13:56:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://backshots.photo/categories/</loc>
   </url>
 </urlset>
