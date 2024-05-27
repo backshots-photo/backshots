@@ -4,43 +4,71 @@
     <title>Tags on backshots.photo</title>
     <link>https://backshots.photo/tags/</link>
     <description>Recent content in Tags on backshots.photo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 06 May 2024 13:56:53 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 13:56:53 +0100</lastBuildDate>
     <atom:link href="https://backshots.photo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>400</title>
+      <link>https://backshots.photo/tags/400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://backshots.photo/tags/400/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Film</title>
       <link>https://backshots.photo/tags/film/</link>
-      <pubDate>Mon, 06 May 2024 13:56:53 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://backshots.photo/tags/film/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kodak</title>
+      <link>https://backshots.photo/tags/kodak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://backshots.photo/tags/kodak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slr</title>
+      <link>https://backshots.photo/tags/slr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://backshots.photo/tags/slr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snappysnaps</title>
+      <link>https://backshots.photo/tags/snappysnaps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://backshots.photo/tags/snappysnaps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ultramax</title>
+      <link>https://backshots.photo/tags/ultramax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://backshots.photo/tags/ultramax/</guid>
       <description></description>
     </item>
     <item>
       <title>Harman</title>
       <link>https://backshots.photo/tags/harman/</link>
-      <pubDate>Mon, 06 May 2024 13:56:53 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://backshots.photo/tags/harman/</guid>
       <description></description>
     </item>
     <item>
       <title>Phoenix</title>
       <link>https://backshots.photo/tags/phoenix/</link>
-      <pubDate>Mon, 06 May 2024 13:56:53 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://backshots.photo/tags/phoenix/</guid>
       <description></description>
     </item>
     <item>
       <title>Rangefinder</title>
       <link>https://backshots.photo/tags/rangefinder/</link>
-      <pubDate>Mon, 06 May 2024 13:56:53 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://backshots.photo/tags/rangefinder/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Snappysnaps</title>
-      <link>https://backshots.photo/tags/snappysnaps/</link>
-      <pubDate>Mon, 06 May 2024 13:56:53 +0100</pubDate>
-      <guid>https://backshots.photo/tags/snappysnaps/</guid>
       <description></description>
     </item>
   </channel>
