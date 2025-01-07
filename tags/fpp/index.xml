@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Slr on backshots.photo</title>
-    <link>https://backshots.photo/tags/slr/</link>
-    <description>Recent content in Slr on backshots.photo</description>
+    <title>Fpp on backshots.photo</title>
+    <link>https://backshots.photo/tags/fpp/</link>
+    <description>Recent content in Fpp on backshots.photo</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 08 Oct 2024 13:56:53 +0000</lastBuildDate>
-    <atom:link href="https://backshots.photo/tags/slr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://backshots.photo/tags/fpp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nikon F100 with FPP Redscale</title>
       <link>https://backshots.photo/film/nikon-f100-fpp-redscale/</link>
       <pubDate>Tue, 08 Oct 2024 13:56:53 +0000</pubDate>
       <guid>https://backshots.photo/film/nikon-f100-fpp-redscale/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Redscale&#34;&gt;Redscale&lt;/a&gt; is an interesting technique to me as it&amp;rsquo;s just the sort of thing that someone would do by accident somehow and then discover &amp;ldquo;oh, this is good actually.&amp;rdquo; Combined with the fact that it&amp;rsquo;s simply using something incorrectly (exposing film through the base of the film stock so that light hits the red-sensitive layers first), it has just the level of ingenuity and slapshod hackery to make me love it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nikon F100 with Kodak Ultramax 400</title>
-      <link>https://backshots.photo/film/nikon-f100-ultramax/</link>
-      <pubDate>Mon, 27 May 2024 13:56:53 +0100</pubDate>
-      <guid>https://backshots.photo/film/nikon-f100-ultramax/</guid>
-      <description>&lt;p&gt;Kodak films have never been particularly exciting to me: they’ve always felt a little staid and understated in their rendition of colour. With something like a ten year gap since I last really shot film, the colour film options available have somewhat reduced: outside of the more exotic cinema 35mm films and other ‘boutique’ films, there are only really a handful of options that are likely be available in more common high-street settings. With that in mind, I’d decided to cast aside my prejudice and give it a go.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
